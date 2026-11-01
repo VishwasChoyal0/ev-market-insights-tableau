@@ -80,3 +80,8 @@ The workbook was opened in Tableau Public 2026.3. The category filter was tested
 The final project report is supplied in Word and PDF. `Completed Templates.zip` contains the completed phase Word files and PDFs, including the linked canvases. `All Phase Templates.pdf` combines the phase PDFs for convenient review. Original template branding and attribution are retained. The Snowflake alternatives are marked not applicable because this project implements the Tableau track.
 
 The portable TWBX embeds the data required to open the dashboard. The large clean CSV and standalone Hyper extract are supplied with the local project output; use the TWBX when downloading from GitHub. Source dataset links and validation summaries accompany the workbook. Course progress and mentor approval are separate portal outcomes and are not implied by the dashboard publication.
+
+
+## Flask web integration
+
+`Flask Web Integration.zip` contains the Flask application, Jinja template, pinned Flask requirement and local run instructions. It embeds both the live dashboard and story with navigation and direct-link fallbacks. The local server uses loopback with debug disabled. Dashboard and story routes returned HTTP 200; unknown routes returned 404. Public Flask hosting is not claimed.
