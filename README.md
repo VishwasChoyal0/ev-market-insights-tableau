@@ -11,7 +11,7 @@ Open **EV Market Insights.twbx** in Tableau Public or Tableau Desktop. This pack
 - [Live Tableau dashboard](https://public.tableau.com/views/EVMarketInsights_17934697727980/EVMarketInsights)
 - [Three-point scenario story](https://public.tableau.com/views/EVMarketInsights_17934697727980/ScenarioStory)
 - [English narrated demo on Google Drive](https://drive.google.com/file/d/1XmrLik-fGaaCRTDb6RiIGywPqFDB0BBD/view?usp=sharing)
-- [Project repository](https://github.com/vishwaschoyal/ev-market-insights-tableau)
+- [Project repository](https://github.com/VishwasChoyal0/ev-market-insights-tableau)
 
 The demo runs for 6 minutes 35 seconds and uses synthesized English narration over recorded Tableau views and a live category-filter demonstration.
 
